@@ -1,4 +1,4 @@
-# Dropdown and Multiple Dropdown in Flutter
+# dropdown and multiple dropdown in flutter
 
 A new Flutter Dropdown and Multiple Dropdown Application. One dropdown is dependent on the other.
 
